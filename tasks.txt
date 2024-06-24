@@ -1,0 +1,6 @@
+0. 1pm exam
+1. 2pm paper
+0. 1pm paper
+1. 2pm exam
+0. wakeup 1pm
+1. sleep 1pm
